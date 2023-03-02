@@ -2,7 +2,7 @@
 #include "stdio.h"
 
 /**
- * _strcat - concat 2 string
+ * _strcat - concat 2 strings of characters
  * @dest:char
  * @src:char
  * Return:char
